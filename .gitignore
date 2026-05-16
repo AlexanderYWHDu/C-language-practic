@@ -1,0 +1,12 @@
+# Compiled binaries
+*.out
+*.o
+*.obj
+
+# Executables without extension (track only source/text files)
+*
+!*/
+!*.c
+!*.h
+!*.md
+!.gitignore
